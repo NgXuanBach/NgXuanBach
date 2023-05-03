@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=bachseo123)
-- 🔭 I’m currently studying
+- 🔭  I’m currently working on something cool 😉
 - 🌱 I’m currently learning backend java
 - 💬 Ask me about Java,...
 - 📫 How to reach me: ngbach2307@gmail.com
